@@ -1,5 +1,4 @@
 # LiteLogistics Mobile App 
-## Mobile App to see and track activities on diffrent shipments. 
 
 ### Features
 
