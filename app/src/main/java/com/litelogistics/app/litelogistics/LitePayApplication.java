@@ -5,7 +5,7 @@ import android.app.Application;
 import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
 
 /**
- * Created by Lekan Adigun on 7/17/2018.
+ * Created by Lekan Adigun on 7/21/2018.
  */
 
 public class LitePayApplication extends Application {

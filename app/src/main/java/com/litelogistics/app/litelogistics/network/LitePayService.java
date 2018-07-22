@@ -8,7 +8,7 @@ import retrofit2.http.GET;
 import retrofit2.http.Query;
 
 /**
- * Created by Lekan Adigun on 7/17/2018.
+ * Created by Lekan Adigun on 7/21/2018.
  */
 
 public interface LitePayService {

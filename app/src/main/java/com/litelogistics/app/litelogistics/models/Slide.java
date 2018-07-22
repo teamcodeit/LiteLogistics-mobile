@@ -1,7 +1,7 @@
 package com.litelogistics.app.litelogistics.models;
 
 /**
- * Created by Lekan Adigun on 7/17/2018.
+ * Created by Lekan Adigun on 7/21/2018.
  */
 
 public class Slide {

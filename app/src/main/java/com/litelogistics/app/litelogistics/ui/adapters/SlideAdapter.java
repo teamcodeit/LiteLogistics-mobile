@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Lekan Adigun on 7/17/2018.
+ * Created by Lekan Adigun on 7/21/2018.
  */
 
 public class SlideAdapter extends PagerAdapter {

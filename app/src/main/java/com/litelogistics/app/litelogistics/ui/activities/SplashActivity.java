@@ -9,7 +9,7 @@ import com.litelogistics.app.litelogistics.ui.base.BaseActivity;
 import com.litelogistics.app.litelogistics.ui.fragments.IntroFragment;
 
 /**
- * Created by Lekan Adigun on 7/17/2018.
+ * Created by Lekan Adigun on 7/21/2018.
  */
 
 public class SplashActivity extends BaseActivity {
